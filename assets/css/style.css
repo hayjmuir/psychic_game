@@ -1,0 +1,15 @@
+body {
+    background: radial-gradient(#283048 , #859398) ;
+    font-size: 1.2em;
+    width:50%;
+    margin:20px auto;
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+}
+
+#container{
+    background-color: white;
+    border-radius: 10px;
+
+}
